@@ -25,7 +25,10 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Machine Learning Enth
 ### 🚀 Projects
 - **[NLP Easy Toolkit](https://github.com/YourUsername/NLP-Easy-Toolkit)**  
   _A toolkit for text preprocessing, sentiment analysis, and named entity recognition._
-
+  
+- **[Breast Cancer Analysis](https://github.com/BusraEcemSakar/BreastCancerAnalysis)**
+  
+-  **[BBC News Text Classification with TF-IDF](https://github.com/BusraEcemSakar/bbc-news-text-classification-tfidf)**   
 ---
 
 ### 📈 My GitHub Stats
