@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Machine Learning Enth
 ---
 
 ### 🌟 About Me
-- 🎓 **Education**: Master's in Data Science, Northumbria Universty
+- 🎓 **Education**: Master's in Data Science, Northumbria University
 - 🏢 **Current Role**: Senior Data Analyst at Mall IQ
 - 🌍 **Location**: London
 - 💡 **Interests**: NLP, Deep Learning, Data Visualization, Cloud Computing
