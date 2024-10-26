@@ -36,6 +36,6 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Machine Learning Enth
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourUsername](https://www.linkedin.com/in/busraecemsakar/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busraecemsakar/)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or chat!
